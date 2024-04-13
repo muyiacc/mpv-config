@@ -15,7 +15,7 @@ git clone https://github.com/muyiacc/portable_config.git
 | --- | --- | --- |
 | a | [thumbfast](https://github.com/po5/thumbfast) | 手动触发缩略图加载|
 | y | / | 旋转视频，默认快捷键没有
-| ctrl+0 | [mpv-file-brower](https://github.com/CogentRedTester/mpv-file-browser) | 打开文件浏览 |
+| ctrl+o | [mpv-file-brower](https://github.com/CogentRedTester/mpv-file-browser) | 打开文件浏览 |
 | `（英文下的飘号，左上角） |  [recent](https://github.com/hacel/recent) | 打开最近播放 |
 
 ## 脚本
