@@ -5,7 +5,7 @@
 
 将本项目克隆到mpv的根目录即可生效<br>
 ```
-git clone https://github.com/muyiacc/portable_config.git
+git clone https://github.com/muyiacc/mpv-config.git portable_config
 ```
 
 ## 快捷键
