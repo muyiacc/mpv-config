@@ -5,7 +5,7 @@
 
 ## 使用方法
 
-- main分支，windows平台使用
+- main 分支，windows 平台使用
 
 ```
 cd you_mpv_home_path # 修改为自己mpv所在目录
@@ -13,7 +13,7 @@ git clone https://github.com/muyiacc/mpv-config.git portable_config
 cd portable_config
 ```
 
-- linux分支，linux平台使用
+- linux 分支，linux 平台使用
 
 ```
 cd ~/.config/mpv
