@@ -1,14 +1,29 @@
 # mpv播放器配置
 
+本项目为不同的平台采用不同的分支命名，这么做的原因是有些脚本对应不同系统的文件目录有所差别，所以为了保证直接拉取的可用性，所以这么设置。
+
 
 ## 使用方法
 
-将本项目克隆到mpv的根目录即可生效<br>
+- windows
+
 ```
+cd you_mpv_home_path # 修改为自己mpv所在目录
 git clone https://github.com/muyiacc/mpv-config.git portable_config
+cd portable_config
+git checkout windows
+```
+
+- linux
+
+```
+cd ~/.config/mpv
+git clone https://github.com/muyiacc/mpv-config.git
+git checkout linux
 ```
 
 ## 快捷键
+
 这里记录的快捷键非通用，而是本项目安装的第三方脚本自定义的快捷键，也有很多是脚本的默认的。
 
 | 快捷键 | 依赖的脚本 | 说明 |
