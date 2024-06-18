@@ -18,7 +18,7 @@ git checkout windows
 
 ```
 cd ~/.config/mpv
-git clone https://github.com/muyiacc/mpv-config.git
+git clone https://github.com/muyiacc/mpv-config.git .
 git checkout linux
 ```
 
