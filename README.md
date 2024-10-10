@@ -7,6 +7,7 @@
 
 - main 分支，windows 平台使用
 
+
 ```
 cd you_mpv_home_path # 修改为自己mpv所在目录
 git clone https://github.com/muyiacc/mpv-config.git portable_config
